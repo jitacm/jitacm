@@ -86,9 +86,17 @@ open the Repo
 - [Ayush Jagdhane](https://github.com/animex007)
 - [Rohan Nishad](https://github.com/rohansnishad)
 - [Suraj Hemnani](https://github.com/Surajh09)
-- [Anjali Ranglani](https://github.com/Surajh09)
-- [Piyush Dodke](https://github.com/Surajh09)
-- [Pranay Dodke](https://github.com/Surajh09)
+- [Anjali Ranglani](https://github.com/Anjali0903)
+- [Dhruve Thakur]()
+- [Sanskruti Kokde](https://github.com/sanskruti-kokde)
+- [Lukesh Kamwani](https://github.com/Surajh09)
+- [Piyush Dodke](https://github.com/Axwell-2)
+- [Pranay Lohakare]()
+- [Tejaswani Paunikar](https://github.com/Tejaswinipaunikar)
+- [Tina Wankhede](https://github.com/tinawankhede)
+- [Walay Shelke](https://github.com/Walayhs)
+- [Shlok Wankhade](https://github.com/Shlokwankhade)
+
 ## Contact Us 🎧
 If you have any questions or want to get in touch with us, feel free to reach out:
 
