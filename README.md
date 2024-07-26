@@ -92,7 +92,7 @@ open the Repo
 - [Lukesh Kamwani](https://github.com/Surajh09)
 - [Piyush Dodke](https://github.com/Axwell-2)
 - [Pranay Lohakare]()
-- [Tejaswani Paunikar](https://github.com/Tejaswinipaunikar)
+- [Tejaswini Paunikar](https://github.com/Tejaswinipaunikar)
 - [Tina Wankhede](https://github.com/tinawankhede)
 - [Walay Shelke](https://github.com/Walayhs)
 - [Shlok Wankhade](https://github.com/Shlokwankhade)
